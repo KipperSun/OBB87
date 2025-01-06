@@ -11,7 +11,7 @@ Support Bluetooth & USB double modes.
 
 - Use nRF52840 CoreBoard_Micro.
 - Use the "Gateron low profile" switch.
-- With 89 WS2812 RGB lights.
+- Use 89 WS2812 RGB lights.
 
 # CodeSpace of ZMK
 The hardware that can be run in the ZMK codespace is [here](https://github.com/KipperSun/obb87/tree/main/obb87).
