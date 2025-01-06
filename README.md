@@ -13,8 +13,6 @@ Support Bluetooth & USB double modes.
 - Use the "Gateron low profile" switch.
 - Use 89 WS2812 RGB lights.
 
-# CodeSpace of ZMK
-The hardware that can be run in the ZMK codespace is [here](https://github.com/KipperSun/obb87/tree/main/obb87).
 
 # Change this keymap
 By forking this repository and change your keymap [here](https://nickcoutsos.github.io/keymap-editor/).
