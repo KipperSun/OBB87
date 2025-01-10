@@ -1,6 +1,6 @@
-# [obb87]
+# OBB87
 
-An 80% ANSI keyboard designed by KipperSun.
+An open source 80% ANSI keyboard designed by KipperSun.
 
 Based on [ZMK](https://github.com/zmkfirmware/zmk).
 
